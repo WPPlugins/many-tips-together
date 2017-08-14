@@ -1,0 +1,2089 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Many Tips Together\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-30 22:03+0100\n"
+"PO-Revision-Date: 2013-09-30 22:03+0100\n"
+"Last-Translator: Rodolfo Buaiz <brasofilo@gmai.com>\n"
+"Language-Team: brasofilo <brasofilo@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /www_dev/dev.plugins/_projetos/WP-SVN/many-tips-together/"
+"trunk\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: many-tips-together.php:243 inc/hooks/class-multisite-custom-columns.php:179
+msgid "Settings"
+msgstr ""
+
+#: many-tips-together.php:271
+msgid "Go to Admin Tweaks settings page"
+msgstr ""
+
+#: inc/class-admin.php:229 inc/admin-tabs/appearance.php:11
+msgid "Appearance"
+msgstr ""
+
+#: inc/class-admin.php:230 inc/admin-tabs/adminbar.php:11
+msgid "Admin Bar"
+msgstr ""
+
+#: inc/class-admin.php:231 inc/admin-tabs/adminmenus.php:11
+msgid "Admin Menus"
+msgstr ""
+
+#: inc/class-admin.php:232 inc/admin-tabs/adminmenus.php:57
+#: inc/admin-tabs/dashboard.php:11 inc/admin-tabs/multisite.php:79
+msgid "Dashboard"
+msgstr ""
+
+#: inc/class-admin.php:233
+msgid "Post and Page Listing"
+msgstr ""
+
+#: inc/class-admin.php:234 inc/admin-tabs/postediting.php:11
+msgid "Post and Page Editing"
+msgstr ""
+
+#: inc/class-admin.php:235 inc/admin-tabs/adminmenus.php:59
+#: inc/admin-tabs/media.php:11
+msgid "Media"
+msgstr ""
+
+#: inc/class-admin.php:236 inc/admin-tabs/widgets.php:11
+msgid "Widgets"
+msgstr ""
+
+#: inc/class-admin.php:237 inc/admin-tabs/adminmenus.php:64
+#: inc/admin-tabs/dashboard.php:19 inc/admin-tabs/multisite.php:156
+#: inc/admin-tabs/plugins.php:11
+msgid "Plugins"
+msgstr ""
+
+#: inc/class-admin.php:238
+msgid "Users and Profile"
+msgstr ""
+
+#: inc/class-admin.php:239 inc/admin-tabs/shortcodes.php:11
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/class-admin.php:240 inc/admin-tabs/general.php:11
+msgid "General Settings"
+msgstr ""
+
+#: inc/class-admin.php:241
+msgid "Login"
+msgstr ""
+
+#: inc/class-admin.php:242 inc/admin-tabs/maintenance.php:11
+msgid "Maintenance Mode"
+msgstr ""
+
+#: inc/class-admin.php:247 inc/admin-tabs/multisite.php:11
+msgid "Multisite"
+msgstr ""
+
+#: inc/class-admin.php:250 inc/admin-tabs/credits.php:11
+msgid "Credits"
+msgstr ""
+
+#: inc/class-admin.php:251 inc/class-admin.php:266
+msgid "Import Export Reset"
+msgstr ""
+
+#: inc/class-admin.php:436 inc/class-plugin-metabox.php:29
+#: inc/class-plugin-metabox.php:31
+msgid "version"
+msgstr ""
+
+#: inc/class-plugin-metabox.php:42
+msgid "by"
+msgstr ""
+
+#: inc/class-plugin-metabox.php:51
+msgid "Hide the plugin help texts"
+msgstr ""
+
+#: inc/class-plugin-metabox.php:56
+msgid "(some settings need a second refresh for being visible)"
+msgstr ""
+
+#: inc/class-plugin-metabox.php:62
+msgid "Update settings"
+msgstr ""
+
+#: inc/class-plugin-metabox.php:84
+msgid "Settings updated."
+msgstr ""
+
+#: inc/class-plugin-metabox.php:108
+msgid "Rate MTT in wordpress.org"
+msgstr ""
+
+#: inc/class-plugin-metabox.php:110
+msgid "Invite me a beer :o)]"
+msgstr ""
+
+#: inc/class-plugin-utils.php:457
+#, php-format
+msgid "%s votes"
+msgstr ""
+
+#: inc/class-plugin-utils.php:458
+msgid "Downloads"
+msgstr ""
+
+#: inc/class-plugin-utils.php:459
+msgid "Updated"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:15
+msgid "The options to hide/show/modify menu items"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:16
+msgid "need a second refresh of the plugin's page."
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:23
+msgid "Completely remove the Admin Bar"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:24
+#, php-format
+msgid ""
+"Remove from back and front end. Creates a \"Visit Site\" link in the "
+"Dashboard menu item. Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:32
+msgid "Disable Admin Bar for all users in Frontend"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:40
+msgid "SEO by Yoast"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:44
+msgid "WP logo"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:45
+msgid "Site name"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:46
+msgid "Updates"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:47 inc/admin-tabs/adminmenus.php:62
+#: inc/admin-tabs/media.php:114
+msgid "Comments"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:48
+msgid "New content"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:49
+msgid "Theme options"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:50
+msgid "My account"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:59 inc/admin-tabs/dashboard.php:26
+msgid "Remove default items"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:70
+msgid "Replace with"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:71
+msgid "Leave empty for complete removal"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:80
+msgid "Remove or change \"Howdy\""
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:91 inc/admin-tabs/adminbar.php:155
+#: inc/admin-tabs/dashboard.php:53
+msgid "Title"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:99
+msgid "Icon (between 16x16 and 22x22 pixels)"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:109
+msgid "URL"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:117
+msgid "Add Site Name with Icon"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:118
+msgid "Add a custom link with title and icon"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:128
+msgid "Menu name"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:129
+msgid "*Required"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:136
+msgid "Menu link"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:137
+msgid "If empty, makes a null link"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:146
+msgid "Enable Custom Menu"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:159
+msgid "URL "
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:165 inc/admin-tabs/dashboard.php:63
+msgid "Show to roles"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:167 inc/admin-tabs/dashboard.php:65
+msgid "Leave empty to show to all."
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:176
+msgid "Add submenus"
+msgstr ""
+
+#: inc/admin-tabs/adminbar.php:178 inc/admin-tabs/dashboard.php:81
+msgid "Add as many as you want."
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:15
+msgid ""
+"The options to hide/show/modify menu items need a second refresh of the "
+"plugin's page."
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:24
+msgid "Disable Hover Intent"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:25
+#, php-format
+msgid "Makes a faster admin menu. Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:36
+msgid "Enable Link Manager"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:37
+msgid ""
+"The link manager was disabled by default in WordPress 3.5, this will bring "
+"it back."
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:47
+msgid "REMOVE MENU ITEMS"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:48
+msgid ""
+"The following simply removes the menus for all users.<br>Note that this "
+"doesn't prevent the access using the actual url address of the item.<br/>For "
+"a better fine tuning use <a target=\"_blank\" href=\"http://wordpress.org/"
+"extend/plugins/adminimize/\">Adminimize</a>. And to really block the access "
+"use <a target=\"_blank\" href=\"http://wordpress.org/extend/plugins/members/"
+"\">Members</a> or <a target=\"_blank\" href=\"http://wordpress.org/extend/"
+"plugins/user-role-editor/\">User-Role-Editor</a>"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:58
+msgid "Posts"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:60 inc/admin-tabs/widgets.php:72
+msgid "Links"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:61 inc/admin-tabs/widgets.php:69
+msgid "Pages"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:63
+msgid "Appearence"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:65
+#: inc/hooks/class-multisite-custom-columns.php:129
+#: inc/hooks/class-multisite-custom-columns.php:169
+msgid "Users"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:66
+msgid "Tools"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:74
+msgid "Select items to remove:"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:83
+msgid "Sort WordPress items in Settings menu [A-Z]"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:90
+msgid "Sort Plugins items in Settings menu [A-Z]"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:97
+msgid "Sort Post Types"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:98
+msgid "Join all post types first, then show Links, Media and Comments"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:120
+msgid "POST STATUS BUBBLES"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:125
+msgid "Select types:"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:133
+msgid "Select status:"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:141
+msgid "Enable"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:143 inc/admin-tabs/postlisting.php:55
+#, php-format
+msgid "Tip via: %s.%s"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:158
+msgid "ADVANCED CUSTOM FIELDS"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:172
+msgid "Select authorized user."
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:181
+msgid "Advanced Custom Fields: show ACF menu only for one user."
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:198
+msgid "If you want to show only for one user, select bellow."
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:199
+msgid ""
+"If none is selected, the Options are only hidden from non-administrators."
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:207
+msgid "Advanced Custom Fields: hide \"Options\" from non-administrators"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:220
+msgid "RENAME POSTS"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:221
+msgid "to whatever you want (i.e. news, articles)"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:228
+msgid "Name"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:235
+msgid "Singular Name"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:242
+msgid "Add New"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:249
+msgid "Edit Posts"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:256
+msgid "View Posts"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:263
+msgid "Search Posts"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:270
+msgid "No Posts found"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:278
+msgid "No Posts found in trash"
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:286
+msgid "Enable renaming the word \"Posts\""
+msgstr ""
+
+#: inc/admin-tabs/adminmenus.php:288
+#, php-format
+msgid ""
+"Maybe you prefer it to be called News or Articles and don't want to create a "
+"Custom Post Type for that.<br />Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:14
+msgid "Hide Help tabs"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:15 inc/admin-tabs/appearance.php:22
+msgid "Located at top right of the screen."
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:21
+msgid "Hide Screen Options tabs"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:30
+msgid "Hide the help texts from this roles."
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:37
+msgid "Expert Mode: Disable WordPress help texts"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:38
+msgid ""
+"No explanations about custom fields, categories description, etc. CSS file "
+"copied from <a href=\"http://wordpress.org/extend/plugins/admin-expert-mode/"
+"\" target=\"_blank\">Admin Expert Mode</a>, by Scott Reilly. There this is "
+"set in a user basis, here in a role basis."
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:49
+msgid "HEADER AND FOOTER"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:54 inc/admin-tabs/appearance.php:70
+msgid "Message to display"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:61
+msgid "Header: enable notice in the Settings sections"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:62
+msgid ""
+"Useful for displaying a notice for clients, like: <em>\"Change this settings "
+"at your own risk...\"</em>"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:82
+msgid "Select roles to display the notice, leave empty to show to all roles."
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:89
+msgid "Header: Enable notice in all admin pages"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:90
+msgid "Useful for displaying a message to all users of the site."
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:99
+msgid "Footer: hide"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:106
+msgid "Text to display on the left (html enabled)"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:113
+msgid "Text to display on the right (html enabled)"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:120
+msgid "Footer: show only your message"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:121
+msgid ""
+"Remove all WordPress and other plugins messages, so your message is the only "
+"one there..."
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:131
+msgid "EXTRA CSS"
+msgstr ""
+
+#: inc/admin-tabs/appearance.php:135
+msgid "CSS rules to be applied in all Admin pages."
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:13
+msgid "REMOVE DASHBOARD WIDGETS"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:16
+msgid "QuickPress"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:17
+msgid "Incoming Links"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:18 inc/admin-tabs/multisite.php:155
+msgid "Right now"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:20
+msgid "Recent Drafts"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:21 inc/admin-tabs/widgets.php:78
+msgid "Recent Comments"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:22 inc/admin-tabs/multisite.php:157
+msgid "WordPress Blog"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:23 inc/admin-tabs/multisite.php:158
+msgid "Other WordPress News"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:24
+msgid "Welcome Panel"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:27
+msgid ""
+"<code>WordPress Blog</code> and <code>Other WP News</code> titles and feed "
+"addresses can be configured in the widget itself."
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:34
+msgid "CUSTOMIZE RIGHT NOW WIDGET"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:37
+msgid "Add Custom Post Types to Right Now Widget"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:38 inc/admin-tabs/media.php:47
+#: inc/admin-tabs/media.php:60 inc/admin-tabs/media.php:142
+#: inc/admin-tabs/postediting.php:19 inc/admin-tabs/postediting.php:120
+#, php-format
+msgid "Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:44
+msgid "Hide the footer of Right Now widget"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:51
+msgid "ADD CUSTOM WIDGETS"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:57
+msgid "Content "
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:72
+msgid "Enable this widget"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:79
+msgid "Custom widgets"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:85
+msgid "EXTRA WIDGETS"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:89
+msgid "Root"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:90
+msgid "WP Content"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:93
+msgid "Calculate Folders Size"
+msgstr ""
+
+#: inc/admin-tabs/dashboard.php:94
+msgid ""
+"The root calculation is usefull when WP is installed at the root of the "
+"server."
+msgstr ""
+
+#: inc/admin-tabs/general.php:17
+msgid "FRONTEND"
+msgstr ""
+
+#: inc/admin-tabs/general.php:19
+msgid "Completely eliminate WordPress version in &lt;head&gt;"
+msgstr ""
+
+#: inc/admin-tabs/general.php:25
+msgid "Eliminate only the WordPress version number in &lt;head&gt;"
+msgstr ""
+
+#: inc/admin-tabs/general.php:31
+msgid "Remove versioning from scripts and styles"
+msgstr ""
+
+#: inc/admin-tabs/general.php:32
+#, php-format
+msgid ""
+"Disables the suffix ?ver=NUMBER that WP appends to enqueued styles and "
+"scripts. Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/general.php:41
+msgid "UPDATES"
+msgstr ""
+
+#: inc/admin-tabs/general.php:43
+msgid "Block WordPress upgrade notice for non-admins"
+msgstr ""
+
+#: inc/admin-tabs/general.php:44
+#, php-format
+msgid "Do not bug non-admins, please! Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/general.php:49
+msgid "Block WordPress upgrade notice for everyone"
+msgstr ""
+
+#: inc/admin-tabs/general.php:55
+msgid "Redirect About page after upgrading."
+msgstr ""
+
+#: inc/admin-tabs/general.php:56
+msgid ""
+"After upgrading WordPress, the default behavior is redirecting to the About "
+"page. This option changes that to going back to the very Upgrade screen."
+msgstr ""
+
+#: inc/admin-tabs/general.php:65
+msgid "PRIVACY and RESTRICTIONS"
+msgstr ""
+
+#: inc/admin-tabs/general.php:67
+msgid "Hide blog URL from WordPress \"phone home\""
+msgstr ""
+
+#: inc/admin-tabs/general.php:68
+#, php-format
+msgid ""
+"Filter out the blog URL from the data that is sent to wordpress.org - Check "
+"this %s to learn more."
+msgstr ""
+
+#: inc/admin-tabs/general.php:68
+msgid "article"
+msgstr ""
+
+#: inc/admin-tabs/general.php:73
+msgid "Disable Self Ping"
+msgstr ""
+
+#: inc/admin-tabs/general.php:74
+msgid "Prevents WordPress from sending pings/trackbacks to your own site."
+msgstr ""
+
+#: inc/admin-tabs/general.php:79
+msgid "Redirect unauthorized attempts."
+msgstr ""
+
+#: inc/admin-tabs/general.php:80
+#, php-format
+msgid ""
+"If the user tries to access an admin page directly via URL, e.g.: /wp-admin/"
+"plugins.php, instead of showing \"you do not have persmissions\", the "
+"browser is redirected to the frontend. Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/general.php:89
+msgid "TAXONOMIES"
+msgstr ""
+
+#: inc/admin-tabs/general.php:91
+msgid "Enable ID column"
+msgstr ""
+
+#: inc/admin-tabs/general.php:92
+#, php-format
+msgid "Show column ID in taxonomies screens. Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/general.php:101 inc/admin-tabs/widgets.php:79
+msgid "RSS"
+msgstr ""
+
+#: inc/admin-tabs/general.php:103
+msgid "Number of delay"
+msgstr ""
+
+#: inc/admin-tabs/general.php:109
+msgid "MINUTE"
+msgstr ""
+
+#: inc/admin-tabs/general.php:110
+msgid "HOUR"
+msgstr ""
+
+#: inc/admin-tabs/general.php:111
+msgid "DAY"
+msgstr ""
+
+#: inc/admin-tabs/general.php:112
+msgid "WEEK"
+msgstr ""
+
+#: inc/admin-tabs/general.php:113
+msgid "MONTH"
+msgstr ""
+
+#: inc/admin-tabs/general.php:114
+msgid "YEAR"
+msgstr ""
+
+#: inc/admin-tabs/general.php:116
+msgid "Period of delay"
+msgstr ""
+
+#: inc/admin-tabs/general.php:123
+msgid "Delay RSS feed update"
+msgstr ""
+
+#: inc/admin-tabs/general.php:124
+#, php-format
+msgid ""
+"This can give you time to make corrections after publishing a post, delaying "
+"the update in your RSS feed. Or you can make your content web exclusive for "
+"a larger period. Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/general.php:140
+msgid "AUTOCOWERKS"
+msgstr ""
+
+#: inc/admin-tabs/general.php:142
+msgid "Disable SmartQuotes"
+msgstr ""
+
+#: inc/admin-tabs/general.php:143
+msgid "Prevent the conversion of straight quotes into directional quotes."
+msgstr ""
+
+#: inc/admin-tabs/general.php:148
+msgid "Disable Capital P"
+msgstr ""
+
+#: inc/admin-tabs/general.php:149
+msgid ""
+"Prevents WordPress of auto-correcting mispellings of its name. Check this <a "
+"href=\"http://justintadlock.com/archives/2010/07/08/lowercase-p-dangit"
+"\">article</a>"
+msgstr ""
+
+#: inc/admin-tabs/general.php:154
+msgid "Disable Auto P"
+msgstr ""
+
+#: inc/admin-tabs/general.php:155
+msgid ""
+"Prevents WordPress from inserting automatic &lt;p&gt; tags in your code."
+msgstr ""
+
+#: inc/admin-tabs/general.php:160
+msgid "Remove WordPress from admin page titles"
+msgstr ""
+
+#: inc/admin-tabs/general.php:161
+#, php-format
+msgid ""
+"The browser title has \"- WordPress\" appended to it. This will remove it. "
+"Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/login.php:11
+msgid "Login and Logout"
+msgstr ""
+
+#: inc/admin-tabs/login.php:16
+msgid "REDIRECTION"
+msgstr ""
+
+#: inc/admin-tabs/login.php:20 inc/admin-tabs/login.php:37
+msgid "URL to redirect to"
+msgstr ""
+
+#: inc/admin-tabs/login.php:27
+msgid "Redirect login"
+msgstr ""
+
+#: inc/admin-tabs/login.php:28
+msgid "The default behavior is being redirected to the Dashboard (index.php)."
+msgstr ""
+
+#: inc/admin-tabs/login.php:44
+msgid "Redirect logout"
+msgstr ""
+
+#: inc/admin-tabs/login.php:45
+msgid "The default behavior is being redirected to the login page..."
+msgstr ""
+
+#: inc/admin-tabs/login.php:56
+msgid "ERRORS"
+msgstr ""
+
+#: inc/admin-tabs/login.php:60
+msgid "Custom error message"
+msgstr ""
+
+#: inc/admin-tabs/login.php:61
+msgid "Don't use html code."
+msgstr ""
+
+#: inc/admin-tabs/login.php:68
+msgid "Remove error message"
+msgstr ""
+
+#: inc/admin-tabs/login.php:69
+msgid "Don't reveal what's the mistake, user or password"
+msgstr ""
+
+#: inc/admin-tabs/login.php:78
+msgid "Disable the login box shaking for the errors and other notices."
+msgstr ""
+
+#: inc/admin-tabs/login.php:88
+msgid "LOGO"
+msgstr ""
+
+#: inc/admin-tabs/login.php:92
+msgid "Title for logo"
+msgstr ""
+
+#: inc/admin-tabs/login.php:93
+msgid "Appears as tooltip.<br />The default text is: \"Powered by WordPress\""
+msgstr ""
+
+#: inc/admin-tabs/login.php:101
+msgid "Link for the logo (full URL)"
+msgstr ""
+
+#: inc/admin-tabs/login.php:102
+msgid "Link for the logo, default: http://wordpress.org"
+msgstr ""
+
+#: inc/admin-tabs/login.php:110
+msgid "Logo image"
+msgstr ""
+
+#: inc/admin-tabs/login.php:111
+msgid "Select an image from your library or upload a new one"
+msgstr ""
+
+#: inc/admin-tabs/login.php:119
+msgid "Logo height"
+msgstr ""
+
+#: inc/admin-tabs/login.php:120
+msgid "Default: 67 - maximum value recomended:  300px"
+msgstr ""
+
+#: inc/admin-tabs/login.php:131
+msgid "BOX"
+msgstr ""
+
+#: inc/admin-tabs/login.php:135
+msgid "Width"
+msgstr ""
+
+#: inc/admin-tabs/login.php:136
+msgid "The logo width is limited by this one"
+msgstr ""
+
+#: inc/admin-tabs/login.php:144
+msgid "Height"
+msgstr ""
+
+#: inc/admin-tabs/login.php:153
+msgid "Disable shadow"
+msgstr ""
+
+#: inc/admin-tabs/login.php:161
+msgid "Rounded corners"
+msgstr ""
+
+#: inc/admin-tabs/login.php:170
+msgid "Remove border"
+msgstr ""
+
+#: inc/admin-tabs/login.php:179 inc/admin-tabs/login.php:208
+msgid "Background color"
+msgstr ""
+
+#: inc/admin-tabs/login.php:186
+msgid "Background image"
+msgstr ""
+
+#: inc/admin-tabs/login.php:198
+msgid "BACKGROUND"
+msgstr ""
+
+#: inc/admin-tabs/login.php:202
+msgid "Background image (full URL)"
+msgstr ""
+
+#: inc/admin-tabs/login.php:224
+msgid "Background position"
+msgstr ""
+
+#: inc/admin-tabs/login.php:237
+msgid "Background repeat"
+msgstr ""
+
+#: inc/admin-tabs/login.php:250
+msgid "Background scroll"
+msgstr ""
+
+#: inc/admin-tabs/login.php:263
+msgid "PASSWORD AND BACK TO SITE"
+msgstr ""
+
+#: inc/admin-tabs/login.php:269
+#, php-format
+msgid "Hide link \"Back to %s\""
+msgstr ""
+
+#: inc/admin-tabs/login.php:270
+msgid "You can use the logo for that."
+msgstr ""
+
+#: inc/admin-tabs/login.php:277
+msgid "Remove text shadow"
+msgstr ""
+
+#: inc/admin-tabs/login.php:286
+msgid "CSS"
+msgstr ""
+
+#: inc/admin-tabs/login.php:290
+msgid "Completely remove WordPress styles in Login page."
+msgstr ""
+
+#: inc/admin-tabs/login.php:291
+msgid "Paste your full CSS bellow."
+msgstr ""
+
+#: inc/admin-tabs/login.php:298
+msgid "Extra CSS for the final touches"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:14
+msgid "Browser Title &lt;title&gt;"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:21
+msgid "Text for the first line"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:28
+msgid "Text for the second line"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:35
+msgid "Link for the third line, without http://"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:42
+msgid "Page background image (full URL)"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:43
+msgid "Use a pattern or a big image, or enter 0 (zero) to disable"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:50
+msgid "Box background image (full URL)"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:51
+msgid "Use a pattern or a big image"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:62
+msgid "Minimum user level to access site."
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:70
+msgid "Block dashboard access for non administrators"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:73
+msgid "Other options"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:82 inc/admin-tabs/profile.php:111
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:83
+msgid "Add your custom css to further stylize the Maintenance page"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:91
+msgid "Enable maintenance mode"
+msgstr ""
+
+#: inc/admin-tabs/maintenance.php:92
+msgid "Block the site to visitors and the dashboard to non administrators."
+msgstr ""
+
+#: inc/admin-tabs/media.php:16
+msgid "MEDIA LIBRARY"
+msgstr ""
+
+#: inc/admin-tabs/media.php:25
+msgid "Bigger thumbnails in the default column"
+msgstr ""
+
+#: inc/admin-tabs/media.php:35
+msgid "Add ID column"
+msgstr ""
+
+#: inc/admin-tabs/media.php:45
+msgid "Add image size column"
+msgstr ""
+
+#: inc/admin-tabs/media.php:58
+msgid ""
+"Add a column that lists all thumbnails of the image, with direct link to it."
+msgstr ""
+
+#: inc/admin-tabs/media.php:71
+msgid "Download link in row actions"
+msgstr ""
+
+#: inc/admin-tabs/media.php:73
+#, php-format
+msgid ""
+"Adds a download link to all items (Edit|Delete|View|Download). Tip via: %s. "
+"The difference here is that there is no external script for downloading, it "
+"has to be done with a mouse right click and selecting \"Save as\"."
+msgstr ""
+
+#: inc/admin-tabs/media.php:87
+msgid "Enables the re-attachment"
+msgstr ""
+
+#: inc/admin-tabs/media.php:89
+#, php-format
+msgid ""
+"Change the parent of the media file to another post/page<br />Unfortunately, "
+"this disables the capability to sort the column... Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/media.php:100
+msgid "Add Camera Exif info as meta data"
+msgstr ""
+
+#: inc/admin-tabs/media.php:102
+#, php-format
+msgid ""
+"The camera info will be stored as Custom Fields for image attachments. This "
+"will also enable Custom Fields when editing the attachemnt and a column with "
+"the information in the Media Library. Tip via: %s."
+msgstr ""
+
+#: inc/admin-tabs/media.php:113
+msgid "Discussion"
+msgstr ""
+
+#: inc/admin-tabs/media.php:115
+msgid "Slug"
+msgstr ""
+
+#: inc/admin-tabs/media.php:116
+msgid "Author"
+msgstr ""
+
+#: inc/admin-tabs/media.php:119
+msgid "Remove Meta Boxes"
+msgstr ""
+
+#: inc/admin-tabs/media.php:129
+msgid "IMAGES UPLOAD"
+msgstr ""
+
+#: inc/admin-tabs/media.php:140
+msgid "Make \"Uploaded to this post\" the default view"
+msgstr ""
+
+#: inc/admin-tabs/media.php:153
+msgid "Include all custom sizes"
+msgstr ""
+
+#: inc/admin-tabs/media.php:155
+#, php-format
+msgid ""
+"Lists all custom sizes in the Insert Media selector.<br />By default, it "
+"only displays <code>Thumbnail | Medium | Large | Full Size</code>. Tip via: "
+"%s"
+msgstr ""
+
+#: inc/admin-tabs/media.php:165
+msgid "Sanitize filename"
+msgstr ""
+
+#: inc/admin-tabs/media.php:167
+#, php-format
+msgid ""
+"Removes symbols, spaces, latin and other languages characters from uploaded "
+"files and gives them \"permalink\" structure (clean characters, only "
+"lowercase and dahes)<br />Code by: %s"
+msgstr ""
+
+#: inc/admin-tabs/media.php:177
+msgid "Sharpen resized images (only jpg)"
+msgstr ""
+
+#: inc/admin-tabs/media.php:179
+#, php-format
+msgid ""
+"Check an <a href=\"http://i.stack.imgur.com/hkLaX.png\" target=\"_blank"
+"\">example</a>. . . Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/media.php:189
+msgid "Quality of resized Jpegs"
+msgstr ""
+
+#: inc/admin-tabs/media.php:190
+msgid "From 1 to 100. WordPress default is 90."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:17
+msgid "This section only appears in the main site and for super-admins."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:18
+msgid ""
+"All settings applied in the Plugins section are also applied in the network "
+"screen."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:25
+msgid "SITE COLUMNS"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:32
+msgid "Site ID"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:42
+msgid "Site Name"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:52
+msgid "Show theme used by site."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:53
+msgid "Also shows parent/child."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:61
+msgid "Show the space used by each site."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:70
+msgid "UTILS"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:80
+msgid "Visit"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:81
+msgid "Edit"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:82
+msgid "Spam"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:83
+msgid "Delete"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:84
+msgid "Activate"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:85
+msgid "Deactivate"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:86
+msgid "Archive"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:87
+msgid "Unarchive"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:90
+msgid "Also remove these actions:"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:91
+msgid "This feature also blocks attempts to access the URL directly"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:100
+msgid "Add Users/Themes/Settings to each site quick links"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:101
+msgid "Fast access to the site details edit tabs."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:112
+msgid "Modify Users column to display the role of each user in each site."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:120
+msgid "Redirect to site details after new site creation."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:121
+msgid "The default behavior is to stay in the same screen"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:130
+msgid "Sort sites by name and domain."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:131
+#, php-format
+msgid ""
+"Sorted by name in the Admin Bar, and by domain in Sites of User. This is a "
+"hook into get_blogs_of_user, and I'm not sure if it has adverse effects "
+"elsewhere. Feedback is welcome, use the WPSE post. Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:139
+msgid "DASHBOARD WIDGETS"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:146
+msgid "Enable Active Plugins widget"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:147
+msgid "Lists all network activated plugins, and all sites with their plugins."
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:161
+msgid "Remove dashboard widgets"
+msgstr ""
+
+#: inc/admin-tabs/multisite.php:162
+#, php-format
+msgid ""
+"WordPress Blog and Other WP News titles and feed addresses can be "
+"configured. Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:17
+msgid "Block plugins upgrade check"
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:18
+msgid "Not recommended, use by your own."
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:27
+msgid "Block inactive plugins upgrade check"
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:28
+msgid ""
+"You'd probably be better deleting them alltogether. Doesn't work in "
+"Multisite."
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:37
+msgid "Remove plugins quick edit links (activate/deactivate, edit, settings)"
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:38
+msgid ""
+"You will have to work only with batch actions, but you can achieve the "
+"smallest plugin listing,"
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:46
+msgid "Remove descriptions but leave Version and Author information."
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:56
+msgid "Remove extra plugins notices (normally in yellow)"
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:65
+msgid "Adds information about last update of the plugins"
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:67
+#, php-format
+msgid ""
+"Incorporation of the plugin: %s. After enabling this, the first load of the "
+"plugins page may take a while for the information be retrieved. After the "
+"first load, the information is cached for 24 hours."
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:78
+msgid "Inactive Plugins background color"
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:87
+msgid ""
+"Enter a list of keywords separated by comma, no spaces. Normally, you'll use "
+"the plugin authors."
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:95
+msgid "Your Plugins background color ;o)"
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:103
+msgid "Display count"
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:112
+msgid "Colorize specific plugins."
+msgstr ""
+
+#: inc/admin-tabs/plugins.php:113
+msgid "Use to display some plugins (yours!) with other color."
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:17
+msgid "Pages: enable Excerpt"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:33
+msgid "Posts-Pages: number of revisions to maintain"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:34
+msgid "-1 (unlimited) | 0 (none) | 1 or more (custom)"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:44
+msgid "Posts-Pages: auto-save interval <em>in minutes</em>"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:55
+msgid "POST CATEGORIES"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:62
+msgid "Enable count"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:64
+#, php-format
+msgid "Tip via: %s.%s. Also using CCT option bellow"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:78
+msgid "Category Checklist Tree"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:80
+#, php-format
+msgid "This is the code from scribu's plugin: %s"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:93
+msgid "Disable selection of parent categories"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:95
+#, php-format
+msgid "Use the previous to use this one. Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:110
+msgid "PUBLISH META BOX"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:119
+msgid "Posts-Pages: move the Author metabox into the Publish metabox"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:129
+msgid "Posts-Pages: move the Discussion metabox into the Publish metabox"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:149
+msgid "Status"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:150
+msgid "Visibility"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:151
+msgid "Published On"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:154
+msgid "Hide elements"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:155
+msgid "Affects ALL post types. Select items to hide:"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:165
+msgid "REMOVE METABOXES : POSTS and PAGES<br />"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:166
+msgid ""
+"Although Adminimize can handle this filtering by roles, it only hides the "
+"meta box and it doen't removes it from the Screen Options"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:180
+msgid "AUTHOR"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:197
+msgid "DISCUSSION"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:214
+msgid "COMMENTS"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:231
+msgid "CUSTOM FIELDS"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:248
+msgid "FEATURED IMAGE"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:265
+msgid "REVISIONS"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:282
+msgid "SLUG"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:293
+msgid "REMOVE METABOXES : PAGES ONLY"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:301
+msgid "ATTRIBUTES"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:308
+msgid "REMOVE METABOXES : POSTS ONLY"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:314
+msgid "FORMAT"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:324
+msgid "CATEGORY"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:334
+msgid "EXCERPT"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:344
+msgid "TAGS"
+msgstr ""
+
+#: inc/admin-tabs/postediting.php:354
+msgid "TRACKBACKS"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:11
+msgid "Post, Page and Custom Post Types listing"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:20
+msgid "Posts: persistent Post listing view"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:22
+#, php-format
+msgid ""
+"If you change the viewing mode (list or excerpt view), it doesn't stick. "
+"Follow this %s. Tip via: %s.%s"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:35
+msgid "Posts: enable Category count"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:37
+#, php-format
+msgid "Inspired by: %s.%s"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:53
+msgid "Pages: enable filtering by Template"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:67
+msgid "All types: enable Duplicate Post and Delete Revisions"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:69
+#, php-format
+msgid "Based on: %s.%s"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:80
+msgid "Re-position the row action (see description)"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:89
+msgid "CUSTOM COLUMNS"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:95
+msgid "All types: add ID column"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:105
+msgid "All types: width of the Title column"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:106
+msgid ""
+"Sometimes the Title column gets shrinked by other columns, you may change "
+"this here. Use px, em or %, i.e. 200px, 50%"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:116
+msgid "Proportion of the thumbnails"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:117
+msgid ""
+"Used for width and height. The scale is proportional, this value is used for "
+"the bigger side."
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:126
+msgid "Width of the column"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:127
+msgid ""
+"Depending on the proportion you may need this. Use px, em or %, i.e. 200px, "
+"50%"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:136
+msgid "Show total number of attachments"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:138
+#, php-format
+msgid "If greater than 1.%s"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:149
+msgid "All types: add Thumbnail column"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:150
+msgid "Shows the featured image or, if not set, the first attached."
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:164
+msgid "CUSTOM COLORS FOR DIFFENT TYPES OF CONTENT"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:172
+msgid "Posts-Pages Draft color"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:181
+msgid "Posts-Pages Pending color"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:190
+msgid "Posts-Pages Future color"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:199
+msgid "Posts-Pages Private color"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:208
+msgid "Posts-Pages Password Protected color"
+msgstr ""
+
+#: inc/admin-tabs/postlisting.php:217
+msgid "Posts-Pages Other Author's color"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:11
+msgid "User profile"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:16
+msgid "Remove All Titles"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:17
+msgid ""
+"Removes the titles: \"Personal Options\", \"Name\", \"Contact Info\" and "
+"\"About Yourself\""
+msgstr ""
+
+#: inc/admin-tabs/profile.php:25
+msgid "Remove All Descriptions"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:34
+msgid "Remove Visual Editor, Admin Color Scheme and Keyboard Shortcuts"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:35
+msgid "My guess is that or you want them all, or you don't want them at all :)"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:44
+msgid "Completely hide the Personal Options block"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:53
+msgid "Remove Display Name"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:62
+msgid "Remove Nickname"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:71
+msgid "Remove Website"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:81
+msgid ""
+"Change <strong>Aim</strong>-<strong>Yim</strong>-<strong>Jabber</strong> for "
+"<strong>Twitter</strong>-<strong>Facebook</strong>-<strong>LinkedIn</strong>"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:82
+msgid "You have to choose between this one or the next one."
+msgstr ""
+
+#: inc/admin-tabs/profile.php:91
+msgid "Remove Aim/Yim/Jabber"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:92
+msgid "You have to choose between this one or the previous one."
+msgstr ""
+
+#: inc/admin-tabs/profile.php:101
+msgid "Hide the About Yourself title and Biographical Info box"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:113
+#, php-format
+msgid ""
+"Add your custom css to further stylize the Profile page.<br />Test "
+"<code>#wpwrap{}</code> with %s"
+msgstr ""
+
+#: inc/admin-tabs/profile.php:114
+msgid "some gradients"
+msgstr ""
+
+#: inc/admin-tabs/shortcodes.php:17
+msgid "Enable shortcodes everywhere"
+msgstr ""
+
+#: inc/admin-tabs/shortcodes.php:18
+#, php-format
+msgid ""
+"In the text widget, excerpts, content and category/tag/taxonomy "
+"descriptions. Code by: %s"
+msgstr ""
+
+#: inc/admin-tabs/shortcodes.php:25
+msgid "Usage:"
+msgstr ""
+
+#: inc/admin-tabs/shortcodes.php:29
+msgid "TITLE-OVER"
+msgstr ""
+
+#: inc/admin-tabs/shortcodes.php:35
+msgid "WATCH NOW"
+msgstr ""
+
+#: inc/admin-tabs/shortcodes.php:37
+msgid ""
+"The \"color\" attribute is for the title.<br />\n"
+"            This is the default backend style, for adpating it in your "
+"theme \n"
+"            use the class \"mtt-poptube\" for the elements"
+msgstr ""
+
+#: inc/admin-tabs/shortcodes.php:41
+msgid "and"
+msgstr ""
+
+#: inc/admin-tabs/shortcodes.php:44
+msgid "Enable YouTube shortcode"
+msgstr ""
+
+#: inc/admin-tabs/shortcodes.php:54
+msgid "Enable Google Docs Preview Document shortcode"
+msgstr ""
+
+#: inc/admin-tabs/shortcodes.php:55
+msgid ""
+"Use Google Docs for preview PDF, Word, Excel docuemtns online. <a href="
+"\"http://docs.google.com/viewer?url=partners.adobe.com/public/developer/en/"
+"xml/AdobeXMLFormsSamples.pdf\" target=\"_blank\">Example</a>.<br />Usage: "
+"<code>[gdocs url=\"http://www.domain.com/document.pdf\" class=\"my-doc-class"
+"\"]View Document[/gdocs]</code>"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:17
+msgid "RSS Widget: update timer (in minutes)"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:19
+#, php-format
+msgid "Default is 12 hours, leave blank for not activating<br />Tip via: %s"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:31
+msgid "New Meta widget"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:32
+msgid "Based on the original, removes WordPress links and adds a custom link"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:41
+msgid "Hide widgets descriptions"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:52
+msgid "Make first sidebar closed as default"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:63
+msgid "REMOVE WIDGETS"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:70
+msgid "Calendar"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:71
+msgid "Archives"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:73
+msgid "Meta"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:74
+msgid "Search"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:75
+msgid "Text"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:76
+msgid "Categories"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:77
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:80
+msgid "Tag Cloud"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:81
+msgid "Custom Menu"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:100
+msgid "Remove widgets only for non-administrators"
+msgstr ""
+
+#: inc/admin-tabs/widgets.php:101
+msgid ""
+"You have to grant edit_theme_options capabilities to your editors for this "
+"to work."
+msgstr ""
+
+#: inc/hooks/adminbar.php:212
+msgid " : Admin"
+msgstr ""
+
+#: inc/hooks/class-media-custom-columns.php:116
+msgid "Dimensions"
+msgstr ""
+
+#: inc/hooks/class-media-detach-reattach.php:46
+msgid "Attached to"
+msgstr ""
+
+#: inc/hooks/class-media-detach-reattach.php:79
+msgid "(Unnattached)"
+msgstr ""
+
+#: inc/hooks/class-media-detach-reattach.php:95
+msgid "Y/m/d"
+msgstr ""
+
+#: inc/hooks/class-media-detach-reattach.php:98
+#: inc/hooks/class-media-detach-reattach.php:176
+#: inc/hooks/class-media-detach-reattach.php:178
+msgid "Re-Attach"
+msgstr ""
+
+#: inc/hooks/class-media-detach-reattach.php:104
+msgid "Unattach this media item."
+msgstr ""
+
+#: inc/hooks/class-media-detach-reattach.php:104
+#: inc/hooks/class-media-detach-reattach.php:175
+#: inc/hooks/class-media-detach-reattach.php:177
+msgid "Unattach"
+msgstr ""
+
+#: inc/hooks/class-media-detach-reattach.php:112
+msgid "(Unattached)"
+msgstr ""
+
+#: inc/hooks/class-media-detach-reattach.php:115
+msgid "Attach"
+msgstr ""
+
+#: inc/hooks/class-media-detach-reattach.php:242
+msgid "You are not allowed to unattach this post."
+msgstr ""
+
+#: inc/hooks/class-media-detach-reattach.php:248
+msgid "Error unattaching post."
+msgstr ""
+
+#: inc/hooks/class-multisite-custom-columns.php:146
+msgid "Space used"
+msgstr ""
+
+#: inc/hooks/class-multisite-custom-columns.php:174
+msgid "Themes"
+msgstr ""
+
+#: inc/hooks/class-multisite-custom-columns.php:197
+msgid "Forbidden action."
+msgstr ""
+
+#: inc/hooks/class-multisite-custom-columns.php:246
+#, php-format
+msgid "Only showing first %s users."
+msgstr ""
+
+#: inc/hooks/class-multisite-custom-columns.php:248
+msgid "More"
+msgstr ""
+
+#: inc/hooks/class-multisite-custom-columns.php:270
+msgid "Theme"
+msgstr ""
+
+#: inc/hooks/class-posts-revisions-duplicate.php:190
+#: inc/hooks/class-posts-revisions-duplicate.php:191
+msgid "Duplicate"
+msgstr ""
+
+#: inc/hooks/class-posts-revisions-duplicate.php:195
+#, php-format
+msgid "Are you sure you want to delete the REVISIONS of the post %s?"
+msgstr ""
+
+#: inc/hooks/class-posts-revisions-duplicate.php:201
+msgid "Confirm delete of revisions?"
+msgstr ""
+
+#: inc/hooks/class-posts-revisions-duplicate.php:203
+#: inc/hooks/class-posts-revisions-duplicate.php:204
+msgid "Delete Revisions"
+msgstr ""
+
+#: inc/hooks/class-widget-active-plugins.php:93
+#: inc/hooks/class-widget-active-plugins.php:131
+#: inc/hooks/class-widget-folder-size.php:206
+msgid "Total"
+msgstr ""
+
+#: inc/hooks/class-widget-folder-size.php:58
+msgid "Root directories"
+msgstr ""
+
+#: inc/hooks/class-widget-folder-size.php:59
+msgid "Wp-content directories"
+msgstr ""
+
+#: inc/hooks/class-widget-folder-size.php:168
+msgid "Clears both widgets caches"
+msgstr ""
+
+#: inc/hooks/class-widget-folder-size.php:168
+msgid "Clear widget cache"
+msgstr ""
+
+#: inc/hooks/class-widget-meta-slim.php:16
+msgid "Log in/out, admin and custom link"
+msgstr ""
+
+#: inc/hooks/class-widget-meta-slim.php:18
+#: inc/hooks/class-widget-meta-slim.php:28
+msgid "Meta Slim"
+msgstr ""
+
+#: inc/hooks/class-widget-meta-slim.php:83
+msgid "Widget title:"
+msgstr ""
+
+#: inc/hooks/class-widget-meta-slim.php:94
+msgid "Title for extra link:"
+msgstr ""
+
+#: inc/hooks/class-widget-meta-slim.php:105
+msgid ""
+"URL for extra link <br><sup>(leave empty and the previous is just a simple "
+"text)</sup>:"
+msgstr ""
+
+#: inc/hooks/general.php:224
+msgid "Network Admin"
+msgstr ""
+
+#: inc/hooks/general.php:226
+msgid "Global Dashboard"
+msgstr ""
+
+#: inc/hooks/general.php:234
+#, php-format
+msgid "%1$s &lsaquo; %2$s"
+msgstr ""
+
+#: inc/hooks/maintenance.php:68
+msgid " | Maintenance Mode"
+msgstr ""
+
+#: inc/hooks/maintenance.php:79
+msgid "Site in maintenance"
+msgstr ""
+
+#: inc/hooks/media.php:166
+msgid "Right click and choose Save As"
+msgstr ""
+
+#: inc/hooks/media.php:239
+msgid "Could not read image size"
+msgstr ""
+
+#: inc/hooks/media.php:398
+#, php-format
+msgid "File &#8220;%s&#8221; doesn&#8217;t exist?"
+msgstr ""
+
+#: inc/hooks/media.php:401
+msgid "The GD image library is not installed."
+msgstr ""
+
+#: inc/hooks/media.php:408
+#, php-format
+msgid "File &#8220;%s&#8221; is not an image."
+msgstr ""
+
+#: inc/hooks/plugins.php:150
+msgid "Last Updated"
+msgstr ""
+
+#: inc/hooks/plugins.php:203
+msgid "by selected author(s)"
+msgstr ""
+
+#: inc/hooks/postlisting.php:142
+msgid "View all categories"
+msgstr ""
+
+#: inc/hooks/postlisting.php:307
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/hooks/postlisting.php:346
+msgid "Featured"
+msgstr ""
+
+#: inc/hooks/postlisting.php:357
+msgid "Attached"
+msgstr ""

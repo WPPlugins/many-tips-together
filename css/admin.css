@@ -1,0 +1,458 @@
+/* 
+    Document   : Many Tips Togegher
+    Created on : Dec 22, 2012, 4:31:54 PM
+    Author     : brasofilo
+    Description: SORRY for this disorganization, folks, I'm not good with this...
+*/
+
+/* User roles checklist */
+.at-role-checkbox.no-toggle {
+    margin: -1px 0 0 13px;
+}
+
+.field {
+    border-bottom: 0px;
+    padding: 3px 10px 0;
+    /*clear: both  one line option */
+}
+.form-table {
+    margin-top: -1.5em;
+    padding: 0 15px;
+}
+.setingstab h2 {
+    font-weight: bold;
+    text-align: right;
+	margin: 16px 18px -30px 0;
+	color: #f5f5f5 !important;
+	font-size: 1.8em;
+}
+.wrap h2, .subtitle {
+    color: #fff;
+    text-shadow: 1px 1px 4px #000 !important;
+    padding-bottom: 30px;
+    letter-spacing: 0.1em;
+}
+.at-label {
+    margin: 0 0 -13px !important;/*
+    float: left;  one line option 
+    width: 50%  one line option */
+}
+.conditinal_container { /* one line option 
+    clear: both;*/
+}
+.setingstab {
+    margin-bottom: 6em;
+}
+.header_wrap {
+    display:none
+}
+.header_wrap h2 {
+    font-size: 3em;
+    font-weight: bold;
+}
+.header_wrap .btn-info.btn {
+    /*position: fixed;*/
+}
+.footer_wrap .btn-info.btn {
+    /*display: none;*/
+}
+.desc-field {
+    color: #838383;
+    background-color: #FBFCEA;
+    border: 1px solid #F1F1F1;/*    
+    float: right;  one line option 
+    width: 50%;  one line option */
+    margin-top: 3px;
+    margin-bottom: 0;
+    padding: 6px 14px;
+    width: 92%;
+}
+/* Labels for checkboxes */
+label.at-posts-checkbox-label, label.at-checkbox_list-label {
+    font-weight: 100 !important;
+    margin: 0 !important;
+}
+label.at-checkbox_list-label {
+    display: inline;
+}
+/* Adjust checkbox margin */
+.at-checkbox_list.no-toggle {
+    margin: 1px 5px 0 0;
+}
+/* Adjust checkbox vertical align */
+.at-checkbox_list {
+    vertical-align: 0 !important;
+    margin: 3px 0;
+}
+.pad-15{
+    padding: 0 15px;
+}
+form {
+    box-shadow: 0 0 15px rgba(0, 0, 0, .2) !important;
+    -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, .2) !important; 
+    -moz-box-shadow: 0 0 15px rgba(0, 0, 0, .2) !important;
+}
+h3, h4, .field p {
+    margin: 1em 14px !important;
+}
+hr {
+    margin: 5px 14px 0;
+    height: 1px;
+    border:none;
+    background: #cccccc;
+    width:100%;
+    background: -webkit-gradient( 
+        linear, 
+        0 0, 
+        100% 0,  
+        from(rgba(50,50,50,0.01)),
+        to(rgba(80,80,80,0.01)), 
+        color-stop(.5,#c9c9c9)
+        );
+    background: -moz-linear-gradient(
+        left,
+        rgba(0,0,0,0.001) 0%,
+        rgba(201,201,201,1) 50%,
+        rgba(0,0,0,0.001) 100%
+        );
+
+    background:-ms-linear-gradient(left, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,.75) 50%, hsla(0,0%,0%,0) 100%);
+    background:-o-linear-gradient(left, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,.75) 50%, hsla(0,0%,0%,0) 100%);
+    background:linear-gradient(left, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,.75) 50%, hsla(0,0%,0%,0) 100%);
+
+    /*
+    border: 0;
+    height: 1px;
+    background: #333;
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,hsla(0,0%,0%,0)), color-stop(50%,hsla(0,0%,0%,.75)), color-stop(100%,hsla(0,0%,0%,0)));
+    background: -webkit-linear-gradient(left, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,.75) 50%, hsla(0,0%,0%,0) 100%);
+    background:    -moz-linear-gradient(left, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,.75) 50%, hsla(0,0%,0%,0) 100%);
+    background:     -ms-linear-gradient(left, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,.75) 50%, hsla(0,0%,0%,0) 100%);
+    background:      -o-linear-gradient(left, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,.75) 50%, hsla(0,0%,0%,0) 100%);
+    background:         linear-gradient(left, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,.75) 50%, hsla(0,0%,0%,0) 100%);
+    */
+    color: #ff6666;
+}
+/* special case for this page 
+#admin_menus .at-label {width:100%}*/
+
+
+/* META BOX */
+#tabs {
+    margin-top: 37px;
+}
+.panel_menu {
+    width: 20%;
+}
+.sections {
+    width: 78%
+}
+.wrap {
+    border-radius: 0;
+    background-color: #f5f4f4;
+    border:0;
+    width: 69%
+}
+
+/* Force line breaking in the menu items, specially in translated versions */
+.nav_tab_link {
+    width: 88%;
+}
+
+
+/* Hide update message */
+.alert.alert-success {display: none}
+
+/* Hide help texts by default */
+.desc-field {display: none}
+
+/*Hide auxiliary button Hide Plugin Help*/ 
+/*#import_export .form-table, */.mtt-hidden, #import_export .at-checkbox_list-label:nth-child(1) {display:none}
+#import_export hr {margin-top:30px;background: white !important;}
+/*--------------------------------------------------------------------------------------------
+*
+*	MTT Side Box
+*
+*--------------------------------------------------------------------------------------------*/
+.update-last {
+    padding: 0 0 1em 0;
+}
+
+.mtt-update {
+    float: right;
+    margin-top: 5px;
+    padding: .8em 0 .3em;
+}
+#bsf-link:hover {
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+
+    transform-origin: 100% 0%;
+    -ms-transform-origin: 100% 0%; /* IE 9 */
+    -webkit-transform-origin: 100% 0%; /* Safari and Chrome */
+    -moz-transform-origin: 100% 0%; /* Firefox */
+    -o-transform-origin: 100% 0%; /* Opera */
+    cursor: progress;
+}
+
+.mtt-box {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #E1E1E1;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    float: right;
+    width: 25%;
+    margin: 36px 1% 0 0;
+    position: absolute;
+    right: 1%;
+/*    opacity:0.01;*/
+}
+.mtt-box2 {
+    margin-top: 260px;
+
+}
+
+.mtt-box .inner {
+    padding: 15px 15px 0;
+}
+
+.mtt-box p.desc {
+    margin: 1px 0 -9px 24px;
+    width: 100% !important;
+}
+
+.mtt-box .footer {
+    background: none repeat scroll 0 0 #F5F5F5;
+    border-top: 1px solid #E1E1E1;
+    overflow: hidden;
+    padding: 10px;
+    position: relative;
+}
+
+.mtt-box .footer ul.left {
+    float: left;
+}
+
+.mtt-box .footer ul li {
+    margin: 0;
+    padding: 0;
+}
+
+.mtt-box .footer ul.left li {
+    margin-left: 5px;
+}
+
+.mtt-box .footer ul.right {
+    float: right;
+    margin-right: 3px;
+}
+
+.mtt-box h2 {
+    margin: .25em 0 .75em;
+    padding: 0;
+}
+
+.mtt-box h3 {
+    margin: 1.5em 0 0;
+}
+
+.mtt-box p {
+    margin-top: 0.5em;
+}
+
+.mtt-box-half.left {
+    width: 50%;
+    float: left;
+}
+
+.mtt-box-half.right {
+    width: 50%;
+    height: 100%;
+    right: 0;
+    position: absolute;
+    background: none repeat scroll 0 0 #F9F9F9;
+    border-left: 1px solid #E1E1E1;
+}
+
+.mtt-box-half.right .inner {
+
+}
+
+.mtt-box select {
+    width: 99%;
+    height: auto !important;
+}
+/* exception in Dashboard */
+.inside-pdash1 {
+    border-top: solid #EBEBEB thin;;
+}
+
+.mtt-img {
+    max-width: 100px;
+    height: auto;
+}
+
+.mtt-img-span {
+    margin-left: 42%;
+}
+
+#poststuff {
+    margin-top: 30px;
+}
+
+h4 {
+    font-size: 1.3em;
+    margin: .6em 0 .5em;
+    background-color: #eee;
+    padding: 5px;
+}
+
+
+h3.h2 {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+    font-size: 23px;
+    line-height: 29px;
+    padding: 9px 15px 4px 0;
+    margin: 0;
+    font-weight: normal;
+}
+
+h3.h2 span {
+    color: #ccc;
+}
+
+#alert_bar {
+    background: #FFFCC4;
+}
+
+.h3-mtt {margin-bottom: -10px !important}
+
+/* EXPORT */
+#export_code, #import_code {
+    width: 100%;
+}
+.export_code, .import_code {
+    margin-left: 15px;
+}
+#import_export h3 {
+    font-size: 2em;
+    margin: 1em 14px 0 !important;
+}
+label[for=import_code], label[for=export_code] {
+    margin-bottom: -10px;
+}
+
+/* Credits tab */
+/*mtt_verbose_plugin*/
+ul.credits-thanks li {
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+
+ul.credits-thanks li { 
+    padding: 0 0 .5em 3em; 
+    text-indent: -1.5em;
+}
+
+ul.credits-thanks li:before {
+    font-size: 2em;
+    vertical-align: bottom;
+    content: "• ";
+    color: gold; /* or whatever color you prefer */
+}
+
+#credits .field {
+width: 60%;
+padding-left: 3em;
+}
+
+ul.credits-thanks li:nth-child(even)
+{
+    font-style: italic;
+}
+
+#stack-flair img {
+    padding: 0 15px
+}
+
+.field p.menu-refresh-notice {
+    font-style:italic;
+    text-align:right;
+    font-size:.9em;
+    margin-top:-5px !important;
+    color:#aaa
+}
+
+/* REPEATER FIELD */
+.at-repater-block {
+    border: 1px solid #EEE;
+    margin: 4px 0px;
+    padding: 9px;
+}
+.at-repeat {
+    width: 95%;
+}
+
+.repeater-table,
+#dashboard_add_widgets textarea,
+#dashboard_add_widgets .at-text,
+#adminbar_custom_submenus textarea,
+#adminbar_custom_submenus .at-text 
+{
+    width: 100% !important;
+}
+
+#dashboard_add_widgets .at-field,
+#adminbar_custom_submenus .at-field 
+{
+border: 0;
+padding: 0;
+}
+
+.repeater-table{
+margin-bottom: 15px;
+}
+
+
+
+#adminbar_custom_submenus div.at-label
+{
+    width: 20% !important;
+    clear:none;
+    float:left
+}
+#adminbar_custom_submenus input.at-text
+{
+    width: 70% !important;
+    clear:right;
+    float:left
+}
+#adminbar_custom_submenus .at-field
+{
+    line-height: 45px;
+}
+
+
+
+/* ROLES */
+.at-role-checkbox.no-fancy {
+    margin: 2px 15px 0 0;
+}
+
+.img-help {
+    clear:both;
+    margin-top: 10px;
+}
+
+.img-help img {
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2) !important;
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .2) !important; 
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 0, .2) !important;
+}
+
+/* Maybe bug in APC upload image?
+.at-delete_image_button.button {
+    float: left;
+}*/
